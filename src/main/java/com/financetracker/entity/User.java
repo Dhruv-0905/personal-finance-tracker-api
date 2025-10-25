@@ -1,4 +1,4 @@
-package com.financetracker.entity;
+package main.java.com.financetracker.entity;
 
 import jakarta.presistence.*;
 import jakarta.Validation.constraints.Email;
